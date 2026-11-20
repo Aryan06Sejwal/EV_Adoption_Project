@@ -1,0 +1,1081 @@
+state,month,vehicle_category,ev_registrations,total_registrations
+Assam,2025-01,2W,210,46033
+Assam,2025-01,3W,4872,5428
+Assam,2025-01,4W,33,6552
+Assam,2025-01,Bus,0,40
+Assam,2025-01,Other,9,2149
+Assam,2025-02,2W,182,35345
+Assam,2025-02,3W,4412,4873
+Assam,2025-02,4W,31,4638
+Assam,2025-02,Bus,28,108
+Assam,2025-02,Other,2,1940
+Assam,2025-03,2W,350,39421
+Assam,2025-03,3W,5619,6193
+Assam,2025-03,4W,40,6432
+Assam,2025-03,Bus,0,71
+Assam,2025-03,Other,5,2621
+Assam,2025-04,2W,280,33521
+Assam,2025-04,3W,5486,5907
+Assam,2025-04,4W,32,5815
+Assam,2025-04,Bus,0,73
+Assam,2025-04,Other,4,1864
+Assam,2025-05,2W,329,28512
+Assam,2025-05,3W,7158,7571
+Assam,2025-05,4W,43,5239
+Assam,2025-05,Bus,0,57
+Assam,2025-05,Other,23,1958
+Assam,2025-06,2W,322,28552
+Assam,2025-06,3W,7130,7477
+Assam,2025-06,4W,36,5229
+Assam,2025-06,Bus,0,45
+Assam,2025-06,Other,10,1924
+Assam,2025-07,2W,343,26678
+Assam,2025-07,3W,8133,8518
+Assam,2025-07,4W,38,6219
+Assam,2025-07,Bus,0,45
+Assam,2025-07,Other,23,2064
+Assam,2025-08,2W,365,27352
+Assam,2025-08,3W,8103,8381
+Assam,2025-08,4W,48,5788
+Assam,2025-08,Bus,0,48
+Assam,2025-08,Other,2,1687
+Assam,2025-09,2W,312,35232
+Assam,2025-09,3W,7902,8226
+Assam,2025-09,4W,41,6967
+Assam,2025-09,Bus,0,41
+Assam,2025-09,Other,2,1525
+Assam,2025-10,2W,342,47231
+Assam,2025-10,3W,7726,8005
+Assam,2025-10,4W,44,8495
+Assam,2025-10,Bus,0,40
+Assam,2025-10,Other,8,2204
+Assam,2025-11,2W,276,29623
+Assam,2025-11,3W,7523,7858
+Assam,2025-11,4W,39,6928
+Assam,2025-11,Bus,0,55
+Assam,2025-11,Other,7,2348
+Assam,2025-12,2W,359,30458
+Assam,2025-12,3W,6758,7106
+Assam,2025-12,4W,32,8346
+Assam,2025-12,Bus,60,127
+Assam,2025-12,Other,10,2326
+Bihar,2025-01,2W,2070,68476
+Bihar,2025-01,3W,7053,9397
+Bihar,2025-01,4W,79,10126
+Bihar,2025-01,Bus,0,169
+Bihar,2025-01,Other,12,4443
+Bihar,2025-02,2W,1561,82032
+Bihar,2025-02,3W,6214,8346
+Bihar,2025-02,4W,81,8511
+Bihar,2025-02,Bus,0,176
+Bihar,2025-02,Other,4,3821
+Bihar,2025-03,2W,2467,92113
+Bihar,2025-03,3W,6797,8713
+Bihar,2025-03,4W,101,9194
+Bihar,2025-03,Bus,0,357
+Bihar,2025-03,Other,5,4614
+Bihar,2025-04,2W,1906,113492
+Bihar,2025-04,3W,5785,7432
+Bihar,2025-04,4W,90,9124
+Bihar,2025-04,Bus,0,197
+Bihar,2025-04,Other,37,4164
+Bihar,2025-05,2W,2177,129467
+Bihar,2025-05,3W,6946,8774
+Bihar,2025-05,4W,79,9481
+Bihar,2025-05,Bus,0,170
+Bihar,2025-05,Other,7,3998
+Bihar,2025-06,2W,2552,95504
+Bihar,2025-06,3W,7508,9359
+Bihar,2025-06,4W,80,9187
+Bihar,2025-06,Bus,0,127
+Bihar,2025-06,Other,7,4025
+Bihar,2025-07,2W,2627,71550
+Bihar,2025-07,3W,8741,10827
+Bihar,2025-07,4W,95,9320
+Bihar,2025-07,Bus,0,104
+Bihar,2025-07,Other,6,3908
+Bihar,2025-08,2W,2556,60205
+Bihar,2025-08,3W,8247,10050
+Bihar,2025-08,4W,87,6999
+Bihar,2025-08,Bus,0,184
+Bihar,2025-08,Other,9,3177
+Bihar,2025-09,2W,1757,44701
+Bihar,2025-09,3W,5148,6671
+Bihar,2025-09,4W,62,3894
+Bihar,2025-09,Bus,0,79
+Bihar,2025-09,Other,15,1851
+Bihar,2025-10,2W,3622,197280
+Bihar,2025-10,3W,11991,15406
+Bihar,2025-10,4W,191,19042
+Bihar,2025-10,Bus,0,160
+Bihar,2025-10,Other,45,5869
+Bihar,2025-11,2W,2720,196147
+Bihar,2025-11,3W,10050,12553
+Bihar,2025-11,4W,100,13079
+Bihar,2025-11,Bus,0,144
+Bihar,2025-11,Other,23,5277
+Bihar,2025-12,2W,2069,66970
+Bihar,2025-12,3W,9906,12101
+Bihar,2025-12,4W,91,9858
+Bihar,2025-12,Bus,0,110
+Bihar,2025-12,Other,20,4623
+Delhi,2025-01,2W,1887,42749
+Delhi,2025-01,3W,5638,6195
+Delhi,2025-01,4W,910,24160
+Delhi,2025-01,Bus,89,145
+Delhi,2025-01,Other,46,1794
+Delhi,2025-02,2W,1841,28990
+Delhi,2025-02,3W,5382,5701
+Delhi,2025-02,4W,886,13875
+Delhi,2025-02,Bus,62,108
+Delhi,2025-02,Other,53,1496
+Delhi,2025-03,2W,2541,35858
+Delhi,2025-03,3W,6304,6619
+Delhi,2025-03,4W,1614,15595
+Delhi,2025-03,Bus,4,58
+Delhi,2025-03,Other,40,1532
+Delhi,2025-04,2W,2314,34777
+Delhi,2025-04,3W,5377,5846
+Delhi,2025-04,4W,733,16230
+Delhi,2025-04,Bus,229,309
+Delhi,2025-04,Other,49,1696
+Delhi,2025-05,2W,3355,46862
+Delhi,2025-05,3W,5596,6613
+Delhi,2025-05,4W,1001,14308
+Delhi,2025-05,Bus,156,211
+Delhi,2025-05,Other,45,1455
+Delhi,2025-06,2W,2785,37897
+Delhi,2025-06,3W,4224,4989
+Delhi,2025-06,4W,1236,13925
+Delhi,2025-06,Bus,126,200
+Delhi,2025-06,Other,68,1361
+Delhi,2025-07,2W,3529,44491
+Delhi,2025-07,3W,4760,5742
+Delhi,2025-07,4W,1270,15354
+Delhi,2025-07,Bus,199,260
+Delhi,2025-07,Other,81,1583
+Delhi,2025-08,2W,4464,40694
+Delhi,2025-08,3W,4727,5443
+Delhi,2025-08,4W,1399,13521
+Delhi,2025-08,Bus,196,254
+Delhi,2025-08,Other,105,1721
+Delhi,2025-09,2W,4313,41034
+Delhi,2025-09,3W,5093,5889
+Delhi,2025-09,4W,1336,11790
+Delhi,2025-09,Bus,32,92
+Delhi,2025-09,Other,157,1674
+Delhi,2025-10,2W,4439,83336
+Delhi,2025-10,3W,5074,6016
+Delhi,2025-10,4W,1663,23030
+Delhi,2025-10,Bus,26,66
+Delhi,2025-10,Other,167,2336
+Delhi,2025-11,2W,3001,64819
+Delhi,2025-11,3W,4263,4994
+Delhi,2025-11,4W,1453,16979
+Delhi,2025-11,Bus,75,84
+Delhi,2025-11,Other,115,2059
+Delhi,2025-12,2W,2493,30893
+Delhi,2025-12,3W,3102,3677
+Delhi,2025-12,4W,1346,16960
+Delhi,2025-12,Bus,188,200
+Delhi,2025-12,Other,100,1459
+Goa,2025-01,2W,833,5229
+Goa,2025-01,3W,1,15
+Goa,2025-01,4W,106,2429
+Goa,2025-01,Bus,0,49
+Goa,2025-01,Other,0,353
+Goa,2025-02,2W,491,4262
+Goa,2025-02,3W,9,24
+Goa,2025-02,4W,94,1636
+Goa,2025-02,Bus,0,21
+Goa,2025-02,Other,3,253
+Goa,2025-03,2W,864,5207
+Goa,2025-03,3W,1,18
+Goa,2025-03,4W,152,2274
+Goa,2025-03,Bus,0,27
+Goa,2025-03,Other,3,263
+Goa,2025-04,2W,477,4047
+Goa,2025-04,3W,4,12
+Goa,2025-04,4W,130,1775
+Goa,2025-04,Bus,2,32
+Goa,2025-04,Other,2,273
+Goa,2025-05,2W,490,3248
+Goa,2025-05,3W,4,13
+Goa,2025-05,4W,108,1471
+Goa,2025-05,Bus,0,17
+Goa,2025-05,Other,16,177
+Goa,2025-06,2W,770,3506
+Goa,2025-06,3W,7,11
+Goa,2025-06,4W,139,1544
+Goa,2025-06,Bus,0,30
+Goa,2025-06,Other,1,189
+Goa,2025-07,2W,494,3427
+Goa,2025-07,3W,0,8
+Goa,2025-07,4W,135,1815
+Goa,2025-07,Bus,0,21
+Goa,2025-07,Other,1,206
+Goa,2025-08,2W,690,5334
+Goa,2025-08,3W,1,7
+Goa,2025-08,4W,138,2485
+Goa,2025-08,Bus,0,39
+Goa,2025-08,Other,9,280
+Goa,2025-09,2W,679,5130
+Goa,2025-09,3W,1,11
+Goa,2025-09,4W,167,1842
+Goa,2025-09,Bus,15,54
+Goa,2025-09,Other,1,249
+Goa,2025-10,2W,823,7862
+Goa,2025-10,3W,2,16
+Goa,2025-10,4W,153,3078
+Goa,2025-10,Bus,5,36
+Goa,2025-10,Other,5,378
+Goa,2025-11,2W,561,5478
+Goa,2025-11,3W,0,10
+Goa,2025-11,4W,127,2284
+Goa,2025-11,Bus,10,32
+Goa,2025-11,Other,2,280
+Goa,2025-12,2W,490,5136
+Goa,2025-12,3W,0,11
+Goa,2025-12,4W,151,2169
+Goa,2025-12,Bus,0,11
+Goa,2025-12,Other,2,244
+Gujarat,2025-01,2W,4033,97548
+Gujarat,2025-01,3W,392,7778
+Gujarat,2025-01,4W,652,49864
+Gujarat,2025-01,Bus,3,254
+Gujarat,2025-01,Other,13,9508
+Gujarat,2025-02,2W,3119,84127
+Gujarat,2025-02,3W,349,6735
+Gujarat,2025-02,4W,555,27735
+Gujarat,2025-02,Bus,0,226
+Gujarat,2025-02,Other,15,7799
+Gujarat,2025-03,2W,5225,96140
+Gujarat,2025-03,3W,564,6504
+Gujarat,2025-03,4W,477,27598
+Gujarat,2025-03,Bus,27,204
+Gujarat,2025-03,Other,9,7958
+Gujarat,2025-04,2W,4185,96075
+Gujarat,2025-04,3W,246,5713
+Gujarat,2025-04,4W,879,30867
+Gujarat,2025-04,Bus,0,194
+Gujarat,2025-04,Other,31,7322
+Gujarat,2025-05,2W,4680,94004
+Gujarat,2025-05,3W,293,5912
+Gujarat,2025-05,4W,996,27203
+Gujarat,2025-05,Bus,1,234
+Gujarat,2025-05,Other,9,6723
+Gujarat,2025-06,2W,5680,100623
+Gujarat,2025-06,3W,498,6780
+Gujarat,2025-06,4W,867,26808
+Gujarat,2025-06,Bus,0,240
+Gujarat,2025-06,Other,23,6636
+Gujarat,2025-07,2W,4917,99752
+Gujarat,2025-07,3W,285,6913
+Gujarat,2025-07,4W,995,38384
+Gujarat,2025-07,Bus,2,399
+Gujarat,2025-07,Other,17,6907
+Gujarat,2025-08,2W,4942,115414
+Gujarat,2025-08,3W,218,6380
+Gujarat,2025-08,4W,1132,52765
+Gujarat,2025-08,Bus,2,653
+Gujarat,2025-08,Other,39,6706
+Gujarat,2025-09,2W,6151,116388
+Gujarat,2025-09,3W,383,8140
+Gujarat,2025-09,4W,1244,41199
+Gujarat,2025-09,Bus,0,500
+Gujarat,2025-09,Other,15,7722
+Gujarat,2025-10,2W,6610,256243
+Gujarat,2025-10,3W,503,11287
+Gujarat,2025-10,4W,1268,53803
+Gujarat,2025-10,Bus,29,544
+Gujarat,2025-10,Other,40,11932
+Gujarat,2025-11,2W,5102,172355
+Gujarat,2025-11,3W,628,8714
+Gujarat,2025-11,4W,1326,41544
+Gujarat,2025-11,Bus,4,399
+Gujarat,2025-11,Other,17,10229
+Gujarat,2025-12,2W,4315,103474
+Gujarat,2025-12,3W,472,6427
+Gujarat,2025-12,4W,1221,49433
+Gujarat,2025-12,Bus,48,487
+Gujarat,2025-12,Other,31,9698
+Haryana,2025-01,2W,1253,48728
+Haryana,2025-01,3W,1600,3487
+Haryana,2025-01,4W,550,41094
+Haryana,2025-01,Bus,25,247
+Haryana,2025-01,Other,20,6166
+Haryana,2025-02,2W,739,37425
+Haryana,2025-02,3W,1239,2602
+Haryana,2025-02,4W,453,27158
+Haryana,2025-02,Bus,1,249
+Haryana,2025-02,Other,20,5368
+Haryana,2025-03,2W,858,41060
+Haryana,2025-03,3W,1183,2068
+Haryana,2025-03,4W,483,30158
+Haryana,2025-03,Bus,0,285
+Haryana,2025-03,Other,15,5190
+Haryana,2025-04,2W,1589,42800
+Haryana,2025-04,3W,1323,2477
+Haryana,2025-04,4W,588,30625
+Haryana,2025-04,Bus,0,460
+Haryana,2025-04,Other,18,5863
+Haryana,2025-05,2W,1269,44210
+Haryana,2025-05,3W,1491,2574
+Haryana,2025-05,4W,549,27493
+Haryana,2025-05,Bus,0,489
+Haryana,2025-05,Other,62,5418
+Haryana,2025-06,2W,1342,43734
+Haryana,2025-06,3W,1511,2568
+Haryana,2025-06,4W,567,29439
+Haryana,2025-06,Bus,5,523
+Haryana,2025-06,Other,37,4742
+Haryana,2025-07,2W,1452,42250
+Haryana,2025-07,3W,1597,2742
+Haryana,2025-07,4W,353,29377
+Haryana,2025-07,Bus,5,533
+Haryana,2025-07,Other,31,4631
+Haryana,2025-08,2W,1103,42078
+Haryana,2025-08,3W,1656,2787
+Haryana,2025-08,4W,213,26958
+Haryana,2025-08,Bus,2,430
+Haryana,2025-08,Other,73,5102
+Haryana,2025-09,2W,995,39638
+Haryana,2025-09,3W,1603,2622
+Haryana,2025-09,4W,187,23980
+Haryana,2025-09,Bus,10,330
+Haryana,2025-09,Other,140,5061
+Haryana,2025-10,2W,1610,97365
+Haryana,2025-10,3W,1592,2954
+Haryana,2025-10,4W,177,41362
+Haryana,2025-10,Bus,0,305
+Haryana,2025-10,Other,107,6383
+Haryana,2025-11,2W,993,90307
+Haryana,2025-11,3W,1611,3142
+Haryana,2025-11,4W,130,31178
+Haryana,2025-11,Bus,20,354
+Haryana,2025-11,Other,59,6217
+Haryana,2025-12,2W,790,34079
+Haryana,2025-12,3W,1757,2822
+Haryana,2025-12,4W,181,35721
+Haryana,2025-12,Bus,0,174
+Haryana,2025-12,Other,155,5458
+Himachal Pradesh,2025-01,2W,104,6671
+Himachal Pradesh,2025-01,3W,31,58
+Himachal Pradesh,2025-01,4W,53,6536
+Himachal Pradesh,2025-01,Bus,0,24
+Himachal Pradesh,2025-01,Other,1,963
+Himachal Pradesh,2025-02,2W,90,5147
+Himachal Pradesh,2025-02,3W,38,61
+Himachal Pradesh,2025-02,4W,55,4734
+Himachal Pradesh,2025-02,Bus,0,30
+Himachal Pradesh,2025-02,Other,4,950
+Himachal Pradesh,2025-03,2W,106,5428
+Himachal Pradesh,2025-03,3W,20,41
+Himachal Pradesh,2025-03,4W,55,4604
+Himachal Pradesh,2025-03,Bus,0,37
+Himachal Pradesh,2025-03,Other,1,957
+Himachal Pradesh,2025-04,2W,60,5921
+Himachal Pradesh,2025-04,3W,18,49
+Himachal Pradesh,2025-04,4W,51,5121
+Himachal Pradesh,2025-04,Bus,1,44
+Himachal Pradesh,2025-04,Other,0,957
+Himachal Pradesh,2025-05,2W,89,6617
+Himachal Pradesh,2025-05,3W,11,44
+Himachal Pradesh,2025-05,4W,44,4545
+Himachal Pradesh,2025-05,Bus,0,48
+Himachal Pradesh,2025-05,Other,0,1250
+Himachal Pradesh,2025-06,2W,104,6450
+Himachal Pradesh,2025-06,3W,13,65
+Himachal Pradesh,2025-06,4W,61,4643
+Himachal Pradesh,2025-06,Bus,0,44
+Himachal Pradesh,2025-06,Other,6,1118
+Himachal Pradesh,2025-07,2W,77,5733
+Himachal Pradesh,2025-07,3W,11,48
+Himachal Pradesh,2025-07,4W,48,4578
+Himachal Pradesh,2025-07,Bus,0,80
+Himachal Pradesh,2025-07,Other,5,1077
+Himachal Pradesh,2025-08,2W,83,6353
+Himachal Pradesh,2025-08,3W,7,24
+Himachal Pradesh,2025-08,4W,51,4028
+Himachal Pradesh,2025-08,Bus,0,37
+Himachal Pradesh,2025-08,Other,3,1019
+Himachal Pradesh,2025-09,2W,64,4437
+Himachal Pradesh,2025-09,3W,10,21
+Himachal Pradesh,2025-09,4W,37,2541
+Himachal Pradesh,2025-09,Bus,0,28
+Himachal Pradesh,2025-09,Other,4,770
+Himachal Pradesh,2025-10,2W,84,6859
+Himachal Pradesh,2025-10,3W,4,15
+Himachal Pradesh,2025-10,4W,84,6046
+Himachal Pradesh,2025-10,Bus,0,32
+Himachal Pradesh,2025-10,Other,2,903
+Himachal Pradesh,2025-11,2W,93,16886
+Himachal Pradesh,2025-11,3W,6,24
+Himachal Pradesh,2025-11,4W,64,9557
+Himachal Pradesh,2025-11,Bus,0,27
+Himachal Pradesh,2025-11,Other,8,1100
+Himachal Pradesh,2025-12,2W,111,9956
+Himachal Pradesh,2025-12,3W,7,16
+Himachal Pradesh,2025-12,4W,56,6338
+Himachal Pradesh,2025-12,Bus,0,35
+Himachal Pradesh,2025-12,Other,4,1007
+Jammu & Kashmir,2025-01,2W,178,4583
+Jammu & Kashmir,2025-01,3W,673,1012
+Jammu & Kashmir,2025-01,4W,30,6772
+Jammu & Kashmir,2025-01,Bus,0,47
+Jammu & Kashmir,2025-01,Other,3,751
+Jammu & Kashmir,2025-02,2W,112,5077
+Jammu & Kashmir,2025-02,3W,622,1011
+Jammu & Kashmir,2025-02,4W,39,4919
+Jammu & Kashmir,2025-02,Bus,0,87
+Jammu & Kashmir,2025-02,Other,1,638
+Jammu & Kashmir,2025-03,2W,190,6842
+Jammu & Kashmir,2025-03,3W,699,1025
+Jammu & Kashmir,2025-03,4W,34,5828
+Jammu & Kashmir,2025-03,Bus,0,85
+Jammu & Kashmir,2025-03,Other,1,786
+Jammu & Kashmir,2025-04,2W,201,8864
+Jammu & Kashmir,2025-04,3W,631,966
+Jammu & Kashmir,2025-04,4W,48,5695
+Jammu & Kashmir,2025-04,Bus,0,118
+Jammu & Kashmir,2025-04,Other,2,804
+Jammu & Kashmir,2025-05,2W,248,8623
+Jammu & Kashmir,2025-05,3W,668,952
+Jammu & Kashmir,2025-05,4W,27,4266
+Jammu & Kashmir,2025-05,Bus,0,36
+Jammu & Kashmir,2025-05,Other,2,608
+Jammu & Kashmir,2025-06,2W,307,8960
+Jammu & Kashmir,2025-06,3W,627,893
+Jammu & Kashmir,2025-06,4W,28,4129
+Jammu & Kashmir,2025-06,Bus,0,57
+Jammu & Kashmir,2025-06,Other,0,539
+Jammu & Kashmir,2025-07,2W,300,11046
+Jammu & Kashmir,2025-07,3W,932,1210
+Jammu & Kashmir,2025-07,4W,42,5077
+Jammu & Kashmir,2025-07,Bus,0,41
+Jammu & Kashmir,2025-07,Other,1,634
+Jammu & Kashmir,2025-08,2W,219,9266
+Jammu & Kashmir,2025-08,3W,734,1004
+Jammu & Kashmir,2025-08,4W,32,4281
+Jammu & Kashmir,2025-08,Bus,0,53
+Jammu & Kashmir,2025-08,Other,1,648
+Jammu & Kashmir,2025-09,2W,149,8003
+Jammu & Kashmir,2025-09,3W,684,950
+Jammu & Kashmir,2025-09,4W,53,4738
+Jammu & Kashmir,2025-09,Bus,0,28
+Jammu & Kashmir,2025-09,Other,2,723
+Jammu & Kashmir,2025-10,2W,266,15894
+Jammu & Kashmir,2025-10,3W,1052,1497
+Jammu & Kashmir,2025-10,4W,69,9444
+Jammu & Kashmir,2025-10,Bus,0,19
+Jammu & Kashmir,2025-10,Other,2,918
+Jammu & Kashmir,2025-11,2W,161,7214
+Jammu & Kashmir,2025-11,3W,775,1163
+Jammu & Kashmir,2025-11,4W,37,6507
+Jammu & Kashmir,2025-11,Bus,0,25
+Jammu & Kashmir,2025-11,Other,0,817
+Jammu & Kashmir,2025-12,2W,164,4735
+Jammu & Kashmir,2025-12,3W,733,1047
+Jammu & Kashmir,2025-12,4W,50,7339
+Jammu & Kashmir,2025-12,Bus,0,31
+Jammu & Kashmir,2025-12,Other,3,998
+Jharkhand,2025-01,2W,962,35517
+Jharkhand,2025-01,3W,1062,2063
+Jharkhand,2025-01,4W,59,6497
+Jharkhand,2025-01,Bus,0,90
+Jharkhand,2025-01,Other,2,2945
+Jharkhand,2025-02,2W,724,33524
+Jharkhand,2025-02,3W,1220,2194
+Jharkhand,2025-02,4W,46,5274
+Jharkhand,2025-02,Bus,0,93
+Jharkhand,2025-02,Other,9,2474
+Jharkhand,2025-03,2W,1070,41676
+Jharkhand,2025-03,3W,1419,2303
+Jharkhand,2025-03,4W,81,5391
+Jharkhand,2025-03,Bus,0,96
+Jharkhand,2025-03,Other,11,2660
+Jharkhand,2025-04,2W,743,50418
+Jharkhand,2025-04,3W,1178,1970
+Jharkhand,2025-04,4W,70,6168
+Jharkhand,2025-04,Bus,0,107
+Jharkhand,2025-04,Other,3,2867
+Jharkhand,2025-05,2W,1001,47143
+Jharkhand,2025-05,3W,1586,2482
+Jharkhand,2025-05,4W,80,5545
+Jharkhand,2025-05,Bus,0,101
+Jharkhand,2025-05,Other,3,3045
+Jharkhand,2025-06,2W,1094,42209
+Jharkhand,2025-06,3W,1543,2478
+Jharkhand,2025-06,4W,89,4837
+Jharkhand,2025-06,Bus,0,67
+Jharkhand,2025-06,Other,5,3197
+Jharkhand,2025-07,2W,1003,32936
+Jharkhand,2025-07,3W,1979,2892
+Jharkhand,2025-07,4W,72,5220
+Jharkhand,2025-07,Bus,0,84
+Jharkhand,2025-07,Other,47,3764
+Jharkhand,2025-08,2W,1090,31278
+Jharkhand,2025-08,3W,1951,2814
+Jharkhand,2025-08,4W,70,4623
+Jharkhand,2025-08,Bus,0,70
+Jharkhand,2025-08,Other,13,3359
+Jharkhand,2025-09,2W,953,34982
+Jharkhand,2025-09,3W,2093,3003
+Jharkhand,2025-09,4W,57,5450
+Jharkhand,2025-09,Bus,0,155
+Jharkhand,2025-09,Other,3,2391
+Jharkhand,2025-10,2W,1385,97707
+Jharkhand,2025-10,3W,2307,3843
+Jharkhand,2025-10,4W,61,10390
+Jharkhand,2025-10,Bus,0,59
+Jharkhand,2025-10,Other,5,3177
+Jharkhand,2025-11,2W,999,54249
+Jharkhand,2025-11,3W,2683,4096
+Jharkhand,2025-11,4W,64,7014
+Jharkhand,2025-11,Bus,0,58
+Jharkhand,2025-11,Other,10,3596
+Jharkhand,2025-12,2W,796,33716
+Jharkhand,2025-12,3W,2270,3351
+Jharkhand,2025-12,4W,50,5766
+Jharkhand,2025-12,Bus,0,61
+Jharkhand,2025-12,Other,7,3624
+Kerala,2025-01,2W,6433,46119
+Kerala,2025-01,3W,430,2590
+Kerala,2025-01,4W,1233,22995
+Kerala,2025-01,Bus,4,205
+Kerala,2025-01,Other,17,2489
+Kerala,2025-02,2W,5290,37055
+Kerala,2025-02,3W,280,1944
+Kerala,2025-02,4W,977,15349
+Kerala,2025-02,Bus,0,152
+Kerala,2025-02,Other,22,1960
+Kerala,2025-03,2W,7767,44924
+Kerala,2025-03,3W,399,2301
+Kerala,2025-03,4W,1816,17418
+Kerala,2025-03,Bus,0,176
+Kerala,2025-03,Other,46,2138
+Kerala,2025-04,2W,5624,40378
+Kerala,2025-04,3W,451,1973
+Kerala,2025-04,4W,1596,20891
+Kerala,2025-04,Bus,1,168
+Kerala,2025-04,Other,32,2014
+Kerala,2025-05,2W,6851,45256
+Kerala,2025-05,3W,590,2390
+Kerala,2025-05,4W,1468,19911
+Kerala,2025-05,Bus,0,249
+Kerala,2025-05,Other,42,1995
+Kerala,2025-06,2W,6474,42597
+Kerala,2025-06,3W,620,2372
+Kerala,2025-06,4W,1584,19381
+Kerala,2025-06,Bus,0,278
+Kerala,2025-06,Other,24,1918
+Kerala,2025-07,2W,6444,43944
+Kerala,2025-07,3W,581,2452
+Kerala,2025-07,4W,1843,19959
+Kerala,2025-07,Bus,0,266
+Kerala,2025-07,Other,44,2061
+Kerala,2025-08,2W,8404,59725
+Kerala,2025-08,3W,612,2890
+Kerala,2025-08,4W,1862,22421
+Kerala,2025-08,Bus,5,528
+Kerala,2025-08,Other,54,2365
+Kerala,2025-09,2W,7191,50558
+Kerala,2025-09,3W,602,2370
+Kerala,2025-09,4W,2094,19921
+Kerala,2025-09,Bus,2,118
+Kerala,2025-09,Other,47,1991
+Kerala,2025-10,2W,6779,62861
+Kerala,2025-10,3W,577,3339
+Kerala,2025-10,4W,1899,30127
+Kerala,2025-10,Bus,0,148
+Kerala,2025-10,Other,52,2863
+Kerala,2025-11,2W,6500,49030
+Kerala,2025-11,3W,618,3265
+Kerala,2025-11,4W,1666,23324
+Kerala,2025-11,Bus,0,132
+Kerala,2025-11,Other,72,2820
+Kerala,2025-12,2W,6733,51045
+Kerala,2025-12,3W,545,2985
+Kerala,2025-12,4W,1619,22518
+Kerala,2025-12,Bus,0,205
+Kerala,2025-12,Other,68,2692
+Madhya Pradesh,2025-01,2W,6928,92184
+Madhya Pradesh,2025-01,3W,2691,4527
+Madhya Pradesh,2025-01,4W,250,37359
+Madhya Pradesh,2025-01,Bus,0,362
+Madhya Pradesh,2025-01,Other,14,3828
+Madhya Pradesh,2025-02,2W,5780,82229
+Madhya Pradesh,2025-02,3W,2198,3742
+Madhya Pradesh,2025-02,4W,230,27129
+Madhya Pradesh,2025-02,Bus,0,254
+Madhya Pradesh,2025-02,Other,13,3515
+Madhya Pradesh,2025-03,2W,9628,93756
+Madhya Pradesh,2025-03,3W,2578,4023
+Madhya Pradesh,2025-03,4W,371,36769
+Madhya Pradesh,2025-03,Bus,0,340
+Madhya Pradesh,2025-03,Other,33,3982
+Madhya Pradesh,2025-04,2W,5972,116816
+Madhya Pradesh,2025-04,3W,2495,3747
+Madhya Pradesh,2025-04,4W,413,21495
+Madhya Pradesh,2025-04,Bus,11,369
+Madhya Pradesh,2025-04,Other,14,2936
+Madhya Pradesh,2025-05,2W,6869,108265
+Madhya Pradesh,2025-05,3W,2796,4220
+Madhya Pradesh,2025-05,4W,419,21287
+Madhya Pradesh,2025-05,Bus,7,251
+Madhya Pradesh,2025-05,Other,13,2360
+Madhya Pradesh,2025-06,2W,7997,78078
+Madhya Pradesh,2025-06,3W,2829,4265
+Madhya Pradesh,2025-06,4W,359,21705
+Madhya Pradesh,2025-06,Bus,0,312
+Madhya Pradesh,2025-06,Other,30,2367
+Madhya Pradesh,2025-07,2W,8102,70393
+Madhya Pradesh,2025-07,3W,3775,5409
+Madhya Pradesh,2025-07,4W,428,24544
+Madhya Pradesh,2025-07,Bus,7,490
+Madhya Pradesh,2025-07,Other,17,2343
+Madhya Pradesh,2025-08,2W,7305,74695
+Madhya Pradesh,2025-08,3W,2863,4357
+Madhya Pradesh,2025-08,4W,507,22154
+Madhya Pradesh,2025-08,Bus,3,442
+Madhya Pradesh,2025-08,Other,117,2449
+Madhya Pradesh,2025-09,2W,9081,75771
+Madhya Pradesh,2025-09,3W,3168,4551
+Madhya Pradesh,2025-09,4W,433,21388
+Madhya Pradesh,2025-09,Bus,0,441
+Madhya Pradesh,2025-09,Other,46,3113
+Madhya Pradesh,2025-10,2W,14184,266920
+Madhya Pradesh,2025-10,3W,3992,6587
+Madhya Pradesh,2025-10,4W,691,38372
+Madhya Pradesh,2025-10,Bus,0,420
+Madhya Pradesh,2025-10,Other,32,5103
+Madhya Pradesh,2025-11,2W,9216,144960
+Madhya Pradesh,2025-11,3W,3412,5465
+Madhya Pradesh,2025-11,4W,439,29755
+Madhya Pradesh,2025-11,Bus,0,284
+Madhya Pradesh,2025-11,Other,42,3755
+Madhya Pradesh,2025-12,2W,7625,67462
+Madhya Pradesh,2025-12,3W,3026,4419
+Madhya Pradesh,2025-12,4W,439,27569
+Madhya Pradesh,2025-12,Bus,0,273
+Madhya Pradesh,2025-12,Other,33,3200
+Maharashtra,2025-01,2W,18563,190553
+Maharashtra,2025-01,3W,1579,9330
+Maharashtra,2025-01,4W,1873,72942
+Maharashtra,2025-01,Bus,82,609
+Maharashtra,2025-01,Other,139,16284
+Maharashtra,2025-02,2W,13044,138270
+Maharashtra,2025-02,3W,1119,7246
+Maharashtra,2025-02,4W,1343,40559
+Maharashtra,2025-02,Bus,85,646
+Maharashtra,2025-02,Other,83,11460
+Maharashtra,2025-03,2W,29141,176953
+Maharashtra,2025-03,3W,1544,8201
+Maharashtra,2025-03,4W,2543,64406
+Maharashtra,2025-03,Bus,105,1038
+Maharashtra,2025-03,Other,143,16383
+Maharashtra,2025-04,2W,16355,202979
+Maharashtra,2025-04,3W,1020,7924
+Maharashtra,2025-04,4W,2127,53183
+Maharashtra,2025-04,Bus,28,852
+Maharashtra,2025-04,Other,124,12209
+Maharashtra,2025-05,2W,16500,165908
+Maharashtra,2025-05,3W,993,6468
+Maharashtra,2025-05,4W,2007,46583
+Maharashtra,2025-05,Bus,62,898
+Maharashtra,2025-05,Other,141,9953
+Maharashtra,2025-06,2W,16386,151957
+Maharashtra,2025-06,3W,1268,6982
+Maharashtra,2025-06,4W,2330,46384
+Maharashtra,2025-06,Bus,188,1212
+Maharashtra,2025-06,Other,102,12027
+Maharashtra,2025-07,2W,15228,159111
+Maharashtra,2025-07,3W,1459,7947
+Maharashtra,2025-07,4W,3650,55349
+Maharashtra,2025-07,Bus,106,935
+Maharashtra,2025-07,Other,131,8715
+Maharashtra,2025-08,2W,16357,164545
+Maharashtra,2025-08,3W,1150,6959
+Maharashtra,2025-08,4W,4689,56763
+Maharashtra,2025-08,Bus,112,739
+Maharashtra,2025-08,Other,270,10661
+Maharashtra,2025-09,2W,15919,143834
+Maharashtra,2025-09,3W,1259,6710
+Maharashtra,2025-09,4W,2216,48845
+Maharashtra,2025-09,Bus,169,731
+Maharashtra,2025-09,Other,360,10910
+Maharashtra,2025-10,2W,25148,325783
+Maharashtra,2025-10,3W,1537,9951
+Maharashtra,2025-10,4W,3174,92488
+Maharashtra,2025-10,Bus,162,645
+Maharashtra,2025-10,Other,482,20055
+Maharashtra,2025-11,2W,18405,299869
+Maharashtra,2025-11,3W,1504,9176
+Maharashtra,2025-11,4W,2343,83726
+Maharashtra,2025-11,Bus,209,568
+Maharashtra,2025-11,Other,279,14895
+Maharashtra,2025-12,2W,15139,174944
+Maharashtra,2025-12,3W,1359,7613
+Maharashtra,2025-12,4W,2302,71941
+Maharashtra,2025-12,Bus,134,542
+Maharashtra,2025-12,Other,283,12751
+Puducherry,2025-01,2W,356,5922
+Puducherry,2025-01,3W,29,37
+Puducherry,2025-01,4W,14,1671
+Puducherry,2025-01,Bus,0,8
+Puducherry,2025-01,Other,2,42
+Puducherry,2025-02,2W,312,4191
+Puducherry,2025-02,3W,40,51
+Puducherry,2025-02,4W,15,1106
+Puducherry,2025-02,Bus,0,14
+Puducherry,2025-02,Other,0,45
+Puducherry,2025-03,2W,336,4379
+Puducherry,2025-03,3W,38,51
+Puducherry,2025-03,4W,17,1146
+Puducherry,2025-03,Bus,0,9
+Puducherry,2025-03,Other,2,37
+Puducherry,2025-04,2W,293,4564
+Puducherry,2025-04,3W,41,57
+Puducherry,2025-04,4W,13,1393
+Puducherry,2025-04,Bus,0,17
+Puducherry,2025-04,Other,0,45
+Puducherry,2025-05,2W,293,4556
+Puducherry,2025-05,3W,36,49
+Puducherry,2025-05,4W,14,1057
+Puducherry,2025-05,Bus,0,13
+Puducherry,2025-05,Other,6,45
+Puducherry,2025-06,2W,309,4624
+Puducherry,2025-06,3W,71,78
+Puducherry,2025-06,4W,10,1046
+Puducherry,2025-06,Bus,0,22
+Puducherry,2025-06,Other,0,165
+Puducherry,2025-07,2W,386,4949
+Puducherry,2025-07,3W,95,105
+Puducherry,2025-07,4W,18,1175
+Puducherry,2025-07,Bus,0,27
+Puducherry,2025-07,Other,0,91
+Puducherry,2025-08,2W,272,4180
+Puducherry,2025-08,3W,34,42
+Puducherry,2025-08,4W,12,1066
+Puducherry,2025-08,Bus,0,18
+Puducherry,2025-08,Other,0,27
+Puducherry,2025-09,2W,312,4082
+Puducherry,2025-09,3W,39,44
+Puducherry,2025-09,4W,7,959
+Puducherry,2025-09,Bus,0,22
+Puducherry,2025-09,Other,0,38
+Puducherry,2025-10,2W,312,5812
+Puducherry,2025-10,3W,40,46
+Puducherry,2025-10,4W,11,1394
+Puducherry,2025-10,Bus,25,40
+Puducherry,2025-10,Other,0,54
+Puducherry,2025-11,2W,349,4540
+Puducherry,2025-11,3W,38,52
+Puducherry,2025-11,4W,10,1136
+Puducherry,2025-11,Bus,0,21
+Puducherry,2025-11,Other,0,32
+Puducherry,2025-12,2W,345,4192
+Puducherry,2025-12,3W,37,43
+Puducherry,2025-12,4W,16,1364
+Puducherry,2025-12,Bus,0,21
+Puducherry,2025-12,Other,1,38
+Punjab,2025-01,2W,1938,39665
+Punjab,2025-01,3W,1400,1757
+Punjab,2025-01,4W,195,20392
+Punjab,2025-01,Bus,0,71
+Punjab,2025-01,Other,36,2064
+Punjab,2025-02,2W,1643,38042
+Punjab,2025-02,3W,1144,1348
+Punjab,2025-02,4W,183,15913
+Punjab,2025-02,Bus,0,97
+Punjab,2025-02,Other,2,1877
+Punjab,2025-03,2W,3261,40417
+Punjab,2025-03,3W,1330,1628
+Punjab,2025-03,4W,209,17236
+Punjab,2025-03,Bus,0,84
+Punjab,2025-03,Other,2,1986
+Punjab,2025-04,2W,2304,35179
+Punjab,2025-04,3W,717,820
+Punjab,2025-04,4W,345,16870
+Punjab,2025-04,Bus,0,34
+Punjab,2025-04,Other,2,1402
+Punjab,2025-05,2W,2383,38253
+Punjab,2025-05,3W,975,1194
+Punjab,2025-05,4W,339,15987
+Punjab,2025-05,Bus,0,101
+Punjab,2025-05,Other,4,1880
+Punjab,2025-06,2W,2358,34017
+Punjab,2025-06,3W,1252,1573
+Punjab,2025-06,4W,359,16261
+Punjab,2025-06,Bus,0,78
+Punjab,2025-06,Other,6,1963
+Punjab,2025-07,2W,2406,40466
+Punjab,2025-07,3W,1761,2044
+Punjab,2025-07,4W,346,17603
+Punjab,2025-07,Bus,0,95
+Punjab,2025-07,Other,9,1973
+Punjab,2025-08,2W,1968,36504
+Punjab,2025-08,3W,1310,1505
+Punjab,2025-08,4W,393,15840
+Punjab,2025-08,Bus,1,88
+Punjab,2025-08,Other,3,1839
+Punjab,2025-09,2W,1778,31067
+Punjab,2025-09,3W,1111,1333
+Punjab,2025-09,4W,378,14683
+Punjab,2025-09,Bus,0,74
+Punjab,2025-09,Other,5,1745
+Punjab,2025-10,2W,3016,66835
+Punjab,2025-10,3W,908,1131
+Punjab,2025-10,4W,414,24155
+Punjab,2025-10,Bus,0,38
+Punjab,2025-10,Other,23,1935
+Punjab,2025-11,2W,2285,98643
+Punjab,2025-11,3W,1125,1340
+Punjab,2025-11,4W,292,20529
+Punjab,2025-11,Bus,0,56
+Punjab,2025-11,Other,31,1911
+Punjab,2025-12,2W,1922,43243
+Punjab,2025-12,3W,1023,1375
+Punjab,2025-12,4W,365,23205
+Punjab,2025-12,Bus,0,57
+Punjab,2025-12,Other,15,2126
+Rajasthan,2025-01,2W,6013,74154
+Rajasthan,2025-01,3W,1785,3768
+Rajasthan,2025-01,4W,802,41834
+Rajasthan,2025-01,Bus,4,152
+Rajasthan,2025-01,Other,29,7867
+Rajasthan,2025-02,2W,4322,67161
+Rajasthan,2025-02,3W,1636,3267
+Rajasthan,2025-02,4W,582,25942
+Rajasthan,2025-02,Bus,3,147
+Rajasthan,2025-02,Other,58,6450
+Rajasthan,2025-03,2W,7955,79158
+Rajasthan,2025-03,3W,1616,3089
+Rajasthan,2025-03,4W,655,27467
+Rajasthan,2025-03,Bus,4,168
+Rajasthan,2025-03,Other,25,7042
+Rajasthan,2025-04,2W,5474,86723
+Rajasthan,2025-04,3W,1385,2842
+Rajasthan,2025-04,4W,877,29267
+Rajasthan,2025-04,Bus,3,230
+Rajasthan,2025-04,Other,31,6864
+Rajasthan,2025-05,2W,6264,82088
+Rajasthan,2025-05,3W,1675,3387
+Rajasthan,2025-05,4W,824,27485
+Rajasthan,2025-05,Bus,0,161
+Rajasthan,2025-05,Other,47,5776
+Rajasthan,2025-06,2W,6525,70827
+Rajasthan,2025-06,3W,1740,3286
+Rajasthan,2025-06,4W,784,29240
+Rajasthan,2025-06,Bus,0,169
+Rajasthan,2025-06,Other,34,5336
+Rajasthan,2025-07,2W,6483,73845
+Rajasthan,2025-07,3W,2075,3978
+Rajasthan,2025-07,4W,989,29103
+Rajasthan,2025-07,Bus,0,452
+Rajasthan,2025-07,Other,38,5195
+Rajasthan,2025-08,2W,6305,78810
+Rajasthan,2025-08,3W,1833,3490
+Rajasthan,2025-08,4W,1072,25339
+Rajasthan,2025-08,Bus,0,473
+Rajasthan,2025-08,Other,60,4993
+Rajasthan,2025-09,2W,6219,73448
+Rajasthan,2025-09,3W,1877,3526
+Rajasthan,2025-09,4W,1045,25012
+Rajasthan,2025-09,Bus,0,298
+Rajasthan,2025-09,Other,103,5030
+Rajasthan,2025-10,2W,11364,232883
+Rajasthan,2025-10,3W,2606,5469
+Rajasthan,2025-10,4W,1605,52883
+Rajasthan,2025-10,Bus,0,215
+Rajasthan,2025-10,Other,143,9479
+Rajasthan,2025-11,2W,7520,201790
+Rajasthan,2025-11,3W,2391,4519
+Rajasthan,2025-11,4W,1042,38979
+Rajasthan,2025-11,Bus,0,98
+Rajasthan,2025-11,Other,97,7325
+Rajasthan,2025-12,2W,5266,57902
+Rajasthan,2025-12,3W,1983,3537
+Rajasthan,2025-12,4W,1040,32329
+Rajasthan,2025-12,Bus,0,86
+Rajasthan,2025-12,Other,144,6616
+Uttar Pradesh,2025-01,2W,9020,201954
+Uttar Pradesh,2025-01,3W,21919,25568
+Uttar Pradesh,2025-01,4W,976,76069
+Uttar Pradesh,2025-01,Bus,10,833
+Uttar Pradesh,2025-01,Other,50,8457
+Uttar Pradesh,2025-02,2W,6453,209509
+Uttar Pradesh,2025-02,3W,19010,22049
+Uttar Pradesh,2025-02,4W,761,52114
+Uttar Pradesh,2025-02,Bus,16,580
+Uttar Pradesh,2025-02,Other,74,6429
+Uttar Pradesh,2025-03,2W,12240,220560
+Uttar Pradesh,2025-03,3W,20984,24061
+Uttar Pradesh,2025-03,4W,840,51440
+Uttar Pradesh,2025-03,Bus,0,913
+Uttar Pradesh,2025-03,Other,37,7382
+Uttar Pradesh,2025-04,2W,8531,307274
+Uttar Pradesh,2025-04,3W,28734,31648
+Uttar Pradesh,2025-04,4W,983,58938
+Uttar Pradesh,2025-04,Bus,0,837
+Uttar Pradesh,2025-04,Other,33,7010
+Uttar Pradesh,2025-05,2W,10300,319857
+Uttar Pradesh,2025-05,3W,27087,30065
+Uttar Pradesh,2025-05,4W,1154,51091
+Uttar Pradesh,2025-05,Bus,1,802
+Uttar Pradesh,2025-05,Other,31,6599
+Uttar Pradesh,2025-06,2W,10414,214044
+Uttar Pradesh,2025-06,3W,21645,24271
+Uttar Pradesh,2025-06,4W,1019,44573
+Uttar Pradesh,2025-06,Bus,6,444
+Uttar Pradesh,2025-06,Other,57,5741
+Uttar Pradesh,2025-07,2W,10046,166803
+Uttar Pradesh,2025-07,3W,23304,26041
+Uttar Pradesh,2025-07,4W,1239,47829
+Uttar Pradesh,2025-07,Bus,6,719
+Uttar Pradesh,2025-07,Other,143,5516
+Uttar Pradesh,2025-08,2W,8717,155325
+Uttar Pradesh,2025-08,3W,20859,23390
+Uttar Pradesh,2025-08,4W,1267,43255
+Uttar Pradesh,2025-08,Bus,0,676
+Uttar Pradesh,2025-08,Other,104,5167
+Uttar Pradesh,2025-09,2W,8135,142888
+Uttar Pradesh,2025-09,3W,20124,22396
+Uttar Pradesh,2025-09,4W,1642,41595
+Uttar Pradesh,2025-09,Bus,15,605
+Uttar Pradesh,2025-09,Other,31,5517
+Uttar Pradesh,2025-10,2W,11337,498829
+Uttar Pradesh,2025-10,3W,21185,24618
+Uttar Pradesh,2025-10,4W,1859,78051
+Uttar Pradesh,2025-10,Bus,8,455
+Uttar Pradesh,2025-10,Other,69,9371
+Uttar Pradesh,2025-11,2W,13597,457071
+Uttar Pradesh,2025-11,3W,28387,31619
+Uttar Pradesh,2025-11,4W,1077,61508
+Uttar Pradesh,2025-11,Bus,0,473
+Uttar Pradesh,2025-11,Other,105,7459
+Uttar Pradesh,2025-12,2W,7585,152450
+Uttar Pradesh,2025-12,3W,20983,23555
+Uttar Pradesh,2025-12,4W,1075,49926
+Uttar Pradesh,2025-12,Bus,26,453
+Uttar Pradesh,2025-12,Other,55,5971
+Uttarakhand,2025-01,2W,535,13575
+Uttarakhand,2025-01,3W,882,1161
+Uttarakhand,2025-01,4W,58,7162
+Uttarakhand,2025-01,Bus,1,54
+Uttarakhand,2025-01,Other,1,770
+Uttarakhand,2025-02,2W,376,12495
+Uttarakhand,2025-02,3W,617,786
+Uttarakhand,2025-02,4W,58,5218
+Uttarakhand,2025-02,Bus,9,50
+Uttarakhand,2025-02,Other,1,604
+Uttarakhand,2025-03,2W,499,12508
+Uttarakhand,2025-03,3W,776,954
+Uttarakhand,2025-03,4W,69,5118
+Uttarakhand,2025-03,Bus,0,66
+Uttarakhand,2025-03,Other,1,612
+Uttarakhand,2025-04,2W,605,16568
+Uttarakhand,2025-04,3W,746,805
+Uttarakhand,2025-04,4W,81,6040
+Uttarakhand,2025-04,Bus,0,113
+Uttarakhand,2025-04,Other,1,699
+Uttarakhand,2025-05,2W,750,16729
+Uttarakhand,2025-05,3W,846,925
+Uttarakhand,2025-05,4W,103,5564
+Uttarakhand,2025-05,Bus,0,110
+Uttarakhand,2025-05,Other,4,693
+Uttarakhand,2025-06,2W,863,14652
+Uttarakhand,2025-06,3W,713,777
+Uttarakhand,2025-06,4W,94,4953
+Uttarakhand,2025-06,Bus,0,26
+Uttarakhand,2025-06,Other,3,708
+Uttarakhand,2025-07,2W,814,14950
+Uttarakhand,2025-07,3W,1059,1109
+Uttarakhand,2025-07,4W,101,4728
+Uttarakhand,2025-07,Bus,0,62
+Uttarakhand,2025-07,Other,1,587
+Uttarakhand,2025-08,2W,777,13508
+Uttarakhand,2025-08,3W,978,1048
+Uttarakhand,2025-08,4W,102,4604
+Uttarakhand,2025-08,Bus,0,37
+Uttarakhand,2025-08,Other,1,522
+Uttarakhand,2025-09,2W,592,12330
+Uttarakhand,2025-09,3W,990,1021
+Uttarakhand,2025-09,4W,88,3984
+Uttarakhand,2025-09,Bus,0,47
+Uttarakhand,2025-09,Other,4,606
+Uttarakhand,2025-10,2W,1143,32281
+Uttarakhand,2025-10,3W,950,1047
+Uttarakhand,2025-10,4W,126,8566
+Uttarakhand,2025-10,Bus,0,82
+Uttarakhand,2025-10,Other,4,917
+Uttarakhand,2025-11,2W,1018,34314
+Uttarakhand,2025-11,3W,1081,1125
+Uttarakhand,2025-11,4W,121,7586
+Uttarakhand,2025-11,Bus,0,16
+Uttarakhand,2025-11,Other,5,961
+Uttarakhand,2025-12,2W,667,12615
+Uttarakhand,2025-12,3W,817,860
+Uttarakhand,2025-12,4W,111,5001
+Uttarakhand,2025-12,Bus,0,91
+Uttarakhand,2025-12,Other,4,688
+West Bengal,2025-01,2W,1916,75396
+West Bengal,2025-01,3W,3140,4551
+West Bengal,2025-01,4W,534,13835
+West Bengal,2025-01,Bus,0,268
+West Bengal,2025-01,Other,23,3117
+West Bengal,2025-02,2W,1414,70858
+West Bengal,2025-02,3W,2511,3751
+West Bengal,2025-02,4W,408,9992
+West Bengal,2025-02,Bus,0,267
+West Bengal,2025-02,Other,10,2759
+West Bengal,2025-03,2W,3052,77216
+West Bengal,2025-03,3W,2590,3669
+West Bengal,2025-03,4W,435,10875
+West Bengal,2025-03,Bus,0,261
+West Bengal,2025-03,Other,28,2996
+West Bengal,2025-04,2W,2289,91922
+West Bengal,2025-04,3W,2078,2886
+West Bengal,2025-04,4W,529,12356
+West Bengal,2025-04,Bus,0,252
+West Bengal,2025-04,Other,12,3030
+West Bengal,2025-05,2W,2437,92523
+West Bengal,2025-05,3W,2479,3409
+West Bengal,2025-05,4W,410,10499
+West Bengal,2025-05,Bus,0,198
+West Bengal,2025-05,Other,16,2628
+West Bengal,2025-06,2W,2563,83845
+West Bengal,2025-06,3W,2277,3308
+West Bengal,2025-06,4W,462,11410
+West Bengal,2025-06,Bus,0,181
+West Bengal,2025-06,Other,17,2571
+West Bengal,2025-07,2W,2343,70468
+West Bengal,2025-07,3W,3283,4298
+West Bengal,2025-07,4W,535,13261
+West Bengal,2025-07,Bus,5,237
+West Bengal,2025-07,Other,22,2701
+West Bengal,2025-08,2W,1952,60574
+West Bengal,2025-08,3W,2908,3871
+West Bengal,2025-08,4W,559,10851
+West Bengal,2025-08,Bus,0,161
+West Bengal,2025-08,Other,34,2388
+West Bengal,2025-09,2W,1949,70627
+West Bengal,2025-09,3W,3734,4495
+West Bengal,2025-09,4W,558,12000
+West Bengal,2025-09,Bus,0,213
+West Bengal,2025-09,Other,28,2707
+West Bengal,2025-10,2W,2419,131143
+West Bengal,2025-10,3W,2633,3248
+West Bengal,2025-10,4W,508,12871
+West Bengal,2025-10,Bus,0,113
+West Bengal,2025-10,Other,28,2530
+West Bengal,2025-11,2W,1983,113979
+West Bengal,2025-11,3W,12283,13107
+West Bengal,2025-11,4W,571,14414
+West Bengal,2025-11,Bus,0,139
+West Bengal,2025-11,Other,37,3353
+West Bengal,2025-12,2W,2057,85028
+West Bengal,2025-12,3W,28331,29216
+West Bengal,2025-12,4W,514,14089
+West Bengal,2025-12,Bus,0,243
+West Bengal,2025-12,Other,39,3186

@@ -1,0 +1,6 @@
+component,variance_explained,cumulative_variance,top_features
+PC1,0.45087873885189417,0.45087873885189417,"share_4w, log_total_ev, share_2w"
+PC2,0.21748900017862524,0.6683677390305194,"ev_share_pct, growth_h2_vs_h1_pct, log_total_ev"
+PC3,0.13944731059747162,0.807815049627991,"share_2w, growth_h2_vs_h1_pct, log_total_ev"
+PC4,0.1063760910791014,0.9141911407070924,"share_4w, growth_h2_vs_h1_pct, ev_share_pct"
+PC5,0.08580885929290759,1.0,"log_total_ev, ev_share_pct, share_2w"

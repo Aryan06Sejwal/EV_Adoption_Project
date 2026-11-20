@@ -1,0 +1,9 @@
+quality_check,rows_affected,action_taken
+Raw rows loaded,1080,None
+State names standardised,60,Mapped to one official name each
+Months before 2025 removed,0,Removed (project rule: data not older than 2025)
+Duplicate rows removed,0,"Kept first record per state, month and category"
+Rows with missing values,0,0 EV counts set to 0 (total present); 0 rows dropped
+Impossible values fixed,0,0 negative-count rows removed; 0 rows with EV > total capped at total
+Outlier rows flagged (kept),55,None (flag only)
+Clean rows used for analysis,1080,None

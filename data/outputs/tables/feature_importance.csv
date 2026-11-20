@@ -1,0 +1,4 @@
+feature,linear_regression_standardised_coef,decision_tree_importance
+month_idx,0.002908360224898282,0.0
+log_lag_1_total,0.03093545968211342,0.748200116202216
+log_lag_1_ev,1.3317366946111506,0.25179988379778395

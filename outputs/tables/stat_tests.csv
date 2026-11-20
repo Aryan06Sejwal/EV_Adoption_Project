@@ -1,0 +1,8 @@
+test,variable,statistic,p_value,n
+Shapiro-Wilk (raw),total_ev,0.7839982253363104,0.0009105634043805867,18
+Shapiro-Wilk (log1p),total_ev,0.9342999067412914,0.23096610907516396,18
+Shapiro-Wilk (raw),ev_share_pct,0.9702586193185085,0.8025389536028233,18
+Shapiro-Wilk (log1p),ev_share_pct,0.9265755442383038,0.1689908543594012,18
+Shapiro-Wilk (raw),growth_h2_vs_h1_pct,0.7443900510365911,0.0002751934552883891,18
+T1 Wilcoxon signed-rank: first vs second half,ev_registrations by state,7.0,0.00014495849609375,18
+T2 Kruskal-Wallis: EV share across categories,ev share by category,52.17086714063194,1.2705037004550247e-10,90

@@ -1,0 +1,88 @@
+{
+  "states": 18,
+  "rows_clean": 1080,
+  "best_classifier": "KNN",
+  "best_k": 6,
+  "pca_components_for_90pct": 4,
+  "regression": [
+    {
+      "model": "Baseline: same as last month",
+      "MAE": 2446.7593,
+      "RMSE": 4427.304,
+      "R2": 0.791
+    },
+    {
+      "model": "Baseline: training mean",
+      "MAE": 6826.6975,
+      "RMSE": 9829.429,
+      "R2": -0.0304
+    },
+    {
+      "model": "Linear Regression",
+      "MAE": 2520.521,
+      "RMSE": 4487.8647,
+      "R2": 0.7852
+    },
+    {
+      "model": "Decision Tree Regressor",
+      "MAE": 2864.0276,
+      "RMSE": 5054.5718,
+      "R2": 0.7275
+    }
+  ],
+  "classification": [
+    {
+      "model": "Decision Tree Classifier",
+      "accuracy_mean": 0.2883,
+      "accuracy_std": 0.2029,
+      "macro_f1_mean": 0.2289,
+      "macro_f1_std": 0.1776
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy_mean": 0.3267,
+      "accuracy_std": 0.2432,
+      "macro_f1_mean": 0.2571,
+      "macro_f1_std": 0.2336
+    },
+    {
+      "model": "KNN",
+      "accuracy_mean": 0.3433,
+      "accuracy_std": 0.2349,
+      "macro_f1_mean": 0.2478,
+      "macro_f1_std": 0.2007
+    }
+  ],
+  "clustering": [
+    {
+      "k": 2,
+      "inertia": 63.8526,
+      "silhouette_kmeans": 0.2015,
+      "silhouette_hierarchical": 0.2272
+    },
+    {
+      "k": 3,
+      "inertia": 48.1023,
+      "silhouette_kmeans": 0.2159,
+      "silhouette_hierarchical": 0.2335
+    },
+    {
+      "k": 4,
+      "inertia": 37.3955,
+      "silhouette_kmeans": 0.2192,
+      "silhouette_hierarchical": 0.2282
+    },
+    {
+      "k": 5,
+      "inertia": 27.2193,
+      "silhouette_kmeans": 0.2123,
+      "silhouette_hierarchical": 0.1993
+    },
+    {
+      "k": 6,
+      "inertia": 20.2573,
+      "silhouette_kmeans": 0.2323,
+      "silhouette_hierarchical": 0.2059
+    }
+  ]
+}

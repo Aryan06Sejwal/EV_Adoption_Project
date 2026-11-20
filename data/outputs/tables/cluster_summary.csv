@@ -1,0 +1,7 @@
+cluster,n_states,example_states,ev_share_pct,log_total_ev,growth_h2_vs_h1_pct,share_2w,share_4w,total_ev,profile_name
+0,4,"Uttar Pradesh, Bihar, Delhi, Assam",11.576,11.908,17.974,0.22,0.045,182015.0,
+1,2,"Goa, Puducherry",8.622,8.79,2.014,0.83,0.102,6987.5,
+2,6,"Maharashtra, Madhya Pradesh, Rajasthan, Kerala",7.405,11.588,16.127,0.724,0.112,124826.833,
+3,1,Himachal Pradesh,1.192,7.57,-9.154,0.549,0.34,1939.0,
+4,1,West Bengal,7.847,11.522,119.137,0.261,0.06,100943.0,
+5,4,"Haryana, Jharkhand, Uttarakhand, Jammu and Kashmir",5.383,10.065,23.56,0.34,0.06,25874.5,
